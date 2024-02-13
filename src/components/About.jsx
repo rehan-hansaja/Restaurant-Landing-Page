@@ -20,7 +20,7 @@ export const About = () => {
         </h1>
         <p className="primary-text">
           Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          elit. Dolor turpis molestie dui magnis
         </p>
         <p className="primary-text">
           Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
