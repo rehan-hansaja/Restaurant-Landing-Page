@@ -1,7 +1,11 @@
 # Restaurant-Landing-Page
  A landing page for a restaurant using React.js 
 
-After editin the code, 
+After editing the code, 
 npm run build
 
-Then, firebase deploy
+Then, 
+firebase deploy
+
+See the webapp using below link
+https://spice-restaurantlandingpage.web.app/
