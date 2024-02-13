@@ -16,6 +16,7 @@ function App() {
       <Testimonials/>
       <Contact/>
       <Footer/>
+      {/* <Router/> */}
 
       {/* <Router>
       <div className="App">
