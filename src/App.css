@@ -85,14 +85,16 @@ nav {
 }
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
-  color: #4c4c4c;
+  /* color: #4c4c4c; */
+  color: #055b49;
   /* line-height: 5rem; */
   max-width: 600px;
 }
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
   max-width: 500px;
-  color: #6a6a6a;
+  /* color: #6a6a6a; */
+  color: #055b49;
   margin: 1.5rem 0rem;
 }
 .secondary-button {
@@ -202,6 +204,8 @@ nav {
 }
 .footer-logo-container {
   max-width: 110px;
+  margin-left: 15px;
+  margin-top: 15px;
 }
 .footer-icons {
   margin-top: 2.5rem;
@@ -321,7 +325,8 @@ nav {
 }
 @media (max-width: 800px) {
   .nav-logo-container {
-    max-width: 140px;
+    max-width: 130px;
+    margin-top: 10px;
   }
   .navbar-links-container {
     display: none;
