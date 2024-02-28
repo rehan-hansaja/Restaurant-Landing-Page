@@ -19,12 +19,12 @@ export const About = () => {
           Food Is An Important Part Of A Balanced Diet
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis
+          Discover the essence of balanced dining at Spice, where every dish embodies the perfect harmony of taste and nutrition. 
+          Indulge in our thoughtfully curated menu, crafted with fresh, locally-sourced ingredients to nourish your body and delight your palate.
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+        Experience culinary excellence in an inviting atmosphere, where every visit promises a symphony of flavors and a celebration of 
+        the importance of food in a balanced diet.
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
