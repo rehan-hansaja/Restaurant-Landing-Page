@@ -67,17 +67,6 @@ export const Navbar = () => {
         <button className="primary-button">Bookings Now</button>
       </div>
 
-      {/* <div className="navbar-links-container">
-        {menuOptions.map((item) => (
-          <Link to={item.path} key={item.text}>
-            {item.text}
-          </Link>
-        ))}
-        <BsCart2 className="navbar-cart-icon" />
-        <button className="primary-button">Bookings Now</button>
-      </div> */}
-
-
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />
       </div>
