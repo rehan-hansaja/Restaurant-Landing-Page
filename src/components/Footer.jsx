@@ -1,9 +1,9 @@
 import React from "react";
 import Logo from "./assets/Logo.png";
-import { Twitter } from "react-icons/bs";
-import { Linkedin } from "react-icons/si";
-import { Youtube } from "react-icons/bs";
-import { Facebook } from "react-icons/fa";
+import { BsTwitter } from "react-icons/bs";
+import { SiLinkedin } from "react-icons/si";
+import { BsYoutube } from "react-icons/bs";
+import { FaFacebookF } from "react-icons/fa";
 
 export const Footer = () => {
   return (
@@ -13,10 +13,10 @@ export const Footer = () => {
           <img src={Logo} alt="" />
         </div>
         <div className="footer-icons">
-          <Twitter />
-          <Linkedin />
-          <Youtube />
-          <Facebook />
+          <BsTwitter />
+          <SiLinkedin />
+          <BsYoutube />
+          <FaFacebookF />
         </div>
       </div>
       <div className="footer-section-two">
