@@ -1,9 +1,9 @@
 import React from "react";
 import Logo from "./assets/Logo.png";
-import { BsTwitter } from "react-icons/bs";
-import { SiLinkedin } from "react-icons/si";
-import { BsYoutube } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/fa";
+import { Twitter } from "react-icons/bs";
+import { Linkedin } from "react-icons/si";
+import { Youtube } from "react-icons/bs";
+import { Facebook } from "react-icons/fa";
 
 export const Footer = () => {
   return (
@@ -13,10 +13,10 @@ export const Footer = () => {
           <img src={Logo} alt="" />
         </div>
         <div className="footer-icons">
-          <BsTwitter />
-          <SiLinkedin />
-          <BsYoutube />
-          <FaFacebookF />
+          <Twitter />
+          <Linkedin />
+          <Youtube />
+          <Facebook />
         </div>
       </div>
       <div className="footer-section-two">
@@ -29,8 +29,8 @@ export const Footer = () => {
           <span>Work</span>
         </div>
         <div className="footer-section-columns">
-          <span>244-5333-7783</span>
-          <span>hello@food.com</span>
+          <span>011-2353-489</span>
+          <span>spice@food.com</span>
           <span>press@food.com</span>
           <span>contact@food.com</span>
         </div>
