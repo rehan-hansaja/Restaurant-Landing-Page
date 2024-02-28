@@ -8,7 +8,7 @@ export const Work = () => {
     {
       image: PickMeals,
       title: "Pick Meals",
-      text: "Pick your meal as you like",
+      text: "Taste your spice, Pick your meal as you like",
     },
     {
       image: ChooseMeals,
@@ -27,8 +27,8 @@ export const Work = () => {
         <p className="primary-subheading">Work</p>
         <h1 className="primary-heading">How It Works</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Discover the simplicity of our process at Spice. Place your order online or in-person, 
+        then sit back and relax as our skilled chefs craft your meal with care. 
         </p>
       </div>
       <div className="work-section-bottom">
