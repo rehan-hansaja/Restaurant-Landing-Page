@@ -96,6 +96,7 @@ nav {
   /* color: #6a6a6a; */
   color: #055b49;
   margin: 1.5rem 0rem;
+  text-align: justify;
 }
 .secondary-button {
   padding: 1rem 2.5rem;
