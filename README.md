@@ -1,11 +1,15 @@
 # Restaurant-Landing-Page
- A landing page for a restaurant using React.js 
-
-After editing the code, 
-npm run build
-
-Then, 
-firebase deploy
 
 See the webapp using below link
-https://spice-restaurantlandingpage.web.app/
+https://spice-chi.vercel.app/
+
+A visually engaging landing web page for a restaurant named 'Spice', including all the essential
+features to enhance the user experience and brand visibility. 
+
+Technologies Used : React, CSS
+
+Here are some screenshots of the web page. 
+
+
+
+
