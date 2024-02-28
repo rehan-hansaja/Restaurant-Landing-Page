@@ -49,9 +49,6 @@ export const Navbar = () => {
         ];
     
 
-
-
-
   return (
     <nav>
       <div className="nav-logo-container">
