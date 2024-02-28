@@ -20,7 +20,7 @@ export const About = () => {
         </h1>
         <p className="primary-text">
           Discover the essence of balanced dining at Spice, where every dish embodies the perfect harmony of taste and nutrition. 
-          Indulge in our thoughtfully curated menu, crafted with fresh, locally-sourced ingredients to nourish your body and delight your palate.
+          Indulge in our thoughtfully curated menu, locally-sourced ingredients to delight your palate.
         </p>
         <p className="primary-text">
         Experience culinary excellence in an inviting atmosphere, where every visit promises a symphony of flavors and a celebration of 
