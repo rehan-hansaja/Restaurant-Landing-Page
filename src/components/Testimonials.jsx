@@ -9,8 +9,8 @@ export const Testimonials = () => {
         <p className="primary-subheading">Testimonial</p>
         <h1 className="primary-heading">What They Are Saying</h1>
         <p className="primary-text">
-          Prepare to be dazzled by the culinary delights and hospitality that await you. 
-          It's more than just a restaurant; it's an extraordinary culinary journey you won't soon forget.
+          Prepare to be dazzled by the culinary delights that await you. 
+          It's more than just a restaurant, it's an extraordinary culinary journey you won't forget.
         </p>
       </div>
       <div className="testimonial-section-bottom">
