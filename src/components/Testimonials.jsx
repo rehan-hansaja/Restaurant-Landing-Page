@@ -1,6 +1,6 @@
 import React from "react";
 import ProfilePic from "./assets/john-doe-image.png";
-import { FillStar } from "react-icons/ai";
+import { AiFillStar } from "react-icons/ai";
 
 export const Testimonials = () => {
   return (
@@ -20,11 +20,11 @@ export const Testimonials = () => {
           bursting with flavors that danced on my palate. The chef's dedication to excellence truly shone through in every bite.
         </p>
         <div className="testimonials-stars-container">
-          <FillStar />
-          <FillStar />
-          <FillStar />
-          <FillStar />
-          <FillStar />
+          <AiFillStar />
+          <AiFillStar />
+          <AiFillStar />
+          <AiFillStar />
+          <AiFillStar />
         </div>
         <h2>James Anderson</h2>
       </div>
