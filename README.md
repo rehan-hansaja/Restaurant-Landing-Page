@@ -1,6 +1,6 @@
 # Restaurant-Landing-Page
 
-See the webapp using below link : 
+To view the webapp : 
 https://spice-chi.vercel.app/
 
 A visually engaging landing web page for a restaurant named 'Spice', including all the essential
